@@ -139,6 +139,7 @@ The application will start and open in your browser.
 * Edwin Pious
 * Rugved Hinge
 * Vedant Deshmuskh
+* Adrian Lewis
 ---
 
 ## Possible Improvements
